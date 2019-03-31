@@ -8,6 +8,7 @@
       "location": "Queens Arms Hotel", 
       "date": "30-03-2019 18:30", 
       "type": "No Limit Texas Holdem", 
-      "stack": 50000
+      "stack": 50000,
+      "image": "https://dugongsoftware.github.io/images/qa.jpg"
     }
 ]
